@@ -111,7 +111,7 @@ Stay Updated With The Latest Features And Improvements To Inflex Music Bot:
   <a href="https://t.me/Dil_dosti_Duniy">
     <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
   </a>
-  <a href="https://telegram.me/TeamInflex">
+  <a href="https://telegram.me/https:girls_and_boys_dpz_2">
     <img src="https://img.shields.io/badge/Join-Update%20Channel-blue?style=for-the-badge&logo=telegram">
   </a>
 </p>
